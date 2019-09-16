@@ -9,30 +9,31 @@ https://app.swaggerhub.com/apis/douglasrc/api-carros/1.0.1#/
 exemplo de consulta xml
 https://apicarros.com/v1/consulta/atj8617
 retorno
+
 <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
-<soap:Body>
-<ns2:getStatusResponse xmlns:ns2="http://soap.ws.placa.service.sinesp.serpro.gov.br/">
-<return>
-<codigoRetorno>0</codigoRetorno>
-<mensagemRetorno>Sem erros.</mensagemRetorno>
-<codigoSituacao>0</codigoSituacao>
-<situacao>Sem restrição</situacao>
-<modelo>HONDA/CG150 FAN ESDI</modelo>
-<marca>HONDA/CG150 FAN ESDI</marca>
-<cor>Vermelha</cor>
-<ano>2010</ano>
-<anoModelo>2011</anoModelo>
-<placa>ATJ8617</placa>
-<data>30/08/2018 às 14:19:37</data>
-<uf>PR</uf>
-<municipio>APUCARANA</municipio>
-<chassi>01542</chassi>
-<dataAtualizacaoCaracteristicasVeiculo>None</dataAtualizacaoCaracteristicasVeiculo>
-<dataAtualizacaoRouboFurto>None</dataAtualizacaoRouboFurto>
-<dataAtualizacaoAlarme>None</dataAtualizacaoAlarme>
-</return>
-</ns2:getStatusResponse>
-</soap:Body>
+    <soap:Body>
+        <ns2:getStatusResponse xmlns:ns2="http://soap.ws.placa.service.sinesp.serpro.gov.br/">
+            <return>
+                <codigoRetorno>0</codigoRetorno>
+                <mensagemRetorno>Sem erros.</mensagemRetorno>
+                <codigoSituacao>0</codigoSituacao>
+                <situacao>Sem restrição</situacao>
+                <modelo>HONDA/CG150 FAN ESDI</modelo>
+                <marca>HONDA/CG150 FAN ESDI</marca>
+                <cor>Vermelha</cor>
+                <ano>2010</ano>
+                <anoModelo>2011</anoModelo>
+                <placa>ATJ8617</placa>
+                <data>30/08/2018 às 14:19:37</data>
+                <uf>PR</uf>
+                <municipio>APUCARANA</municipio>
+                <chassi>01542</chassi>
+                <dataAtualizacaoCaracteristicasVeiculo>None</dataAtualizacaoCaracteristicasVeiculo>
+                <dataAtualizacaoRouboFurto>None</dataAtualizacaoRouboFurto>
+                <dataAtualizacaoAlarme>None</dataAtualizacaoAlarme>
+            </return>
+        </ns2:getStatusResponse>
+    </soap:Body>
 </soap:Envelope>
 
 

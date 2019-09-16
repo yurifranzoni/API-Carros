@@ -9,7 +9,7 @@ https://app.swaggerhub.com/apis/douglasrc/api-carros/1.0.1#/
 exemplo de consulta xml
 https://apicarros.com/v1/consulta/atj8617
 retorno
-
+```
 <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
     <soap:Body>
         <ns2:getStatusResponse xmlns:ns2="http://soap.ws.placa.service.sinesp.serpro.gov.br/">
@@ -36,10 +36,10 @@ retorno
     </soap:Body>
 </soap:Envelope>
 
-
+```
 exemplo de consulta json
 https://apicarros.com/v1/consulta/atj8617/json
-
+```
 {
   "ano": "2010", 
   "anoModelo": "2011", 
@@ -59,3 +59,4 @@ https://apicarros.com/v1/consulta/atj8617/json
   "situacao": "Sem restri\u00e7\u00e3o", 
   "uf": "PR"
 }
+```

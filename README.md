@@ -1,7 +1,13 @@
 # API-Carros
 Api publica de consulta de placas.
 
-BD ATUAL 100 Milhoes de placas
+BD ATUAL 
++-----------+
+| count(*)  |
++-----------+
+| 126473292 |
++-----------+
+
 
 https://app.swaggerhub.com/apis/douglasrc/api-carros/1.0.1#/
 

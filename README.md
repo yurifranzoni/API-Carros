@@ -14,7 +14,7 @@ retorno
 ```
 <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/">
     <soap:Body>
-        <ns2:getStatusResponse xmlns:ns2="http://soap.ws.placa.service.sinesp.serpro.gov.br/">
+        <ns2:getStatusResponse xmlns:ns2="http://soap.br/">
             <return>
                 <codigoRetorno>0</codigoRetorno>
                 <mensagemRetorno>Sem erros.</mensagemRetorno>

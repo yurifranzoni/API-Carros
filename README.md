@@ -3,7 +3,7 @@ Api publica de consulta de placas.
 
 BD ATUAL | 177284073  | de placas
 
-DOWNLOAD DO BD FAVOR ENVIAR EMAIL :) PARA DETALHES!.
+
 
 https://app.swaggerhub.com/apis/douglasrc/api-carros/1.0.1#/
 
